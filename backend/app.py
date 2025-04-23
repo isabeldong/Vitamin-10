@@ -10,8 +10,8 @@ quotes = [
     "Do not watch the clock. Do what it does. Keep going.",
     "Believe you can and you're halfway there.",
     "The best way to get started is to quit talking and begin doing.",
-    "Success is not final, failure is not fatal: It is the courage to continue that counts.",
-    "Keep your face always toward the sunshine—and shadows will fall behind you."
+    "Success is not final, failure is not fatal. It is the courage to continue that counts.",
+    "Keep your face always toward the sunshine and shadows will fall behind you."
 ]
 
 @app.route("/api/quote")
